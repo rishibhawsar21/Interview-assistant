@@ -1,0 +1,17 @@
+{
+  "Junior": [
+    "What is supervised learning?",
+    "How do you handle missing values in a dataset?",
+    "Explain precision and recall."
+  ],
+  "Intermediate": [
+    "Describe how you would build a model to detect fraudulent transactions.",
+    "Explain bias-variance tradeoff and how to address overfitting.",
+    "How would you evaluate a classification model on imbalanced data?"
+  ],
+  "Senior": [
+    "Design a production ML system for real-time fraud detection.",
+    "Explain model interpretability techniques and when to use them.",
+    "How would you monitor model drift in production?"
+  ]
+}

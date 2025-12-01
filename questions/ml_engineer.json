@@ -1,0 +1,14 @@
+{
+  "Junior": [
+    "What is a confusion matrix?",
+    "Explain train/test split and why it's needed."
+  ],
+  "Intermediate": [
+    "How do you deploy a model with Docker and expose an inference API?",
+    "Explain feature stores and why they're useful."
+  ],
+  "Senior": [
+    "Design an MLOps pipeline that supports retraining and A/B testing of models.",
+    "Explain model serving patterns for low-latency inference."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "Junior": [
+    "What is a language model?",
+    "Explain embeddings at a high level."
+  ],
+  "Intermediate": [
+    "What is Retrieval-Augmented Generation (RAG)? How would you build a basic RAG pipeline?",
+    "Explain how you would fine-tune a small LLM for a domain-specific task."
+  ],
+  "Senior": [
+    "Design a multi-agent system that uses LLMs to automate a customer support workflow.",
+    "Discuss safety and hallucination mitigation for LLM-based assistants."
+  ]
+}
