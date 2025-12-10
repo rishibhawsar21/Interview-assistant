@@ -52,7 +52,7 @@ st.write(st.session_state.current_question)
 answer = st.text_area("Your answer (type here)", height=200)
 
 total = None
-evaluation = None
+evaluation = None 
 
 if st.button("Submit Answer"):
     if not answer.strip():
